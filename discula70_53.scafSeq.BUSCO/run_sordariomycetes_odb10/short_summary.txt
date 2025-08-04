@@ -1,0 +1,19 @@
+# BUSCO version is: 5.3.2 
+# The lineage dataset is: sordariomycetes_odb10 (Creation date: 2020-08-05, number of genomes: 97, number of BUSCOs: 3817)
+# Summarized benchmarking in BUSCO notation for file /pickett_shared/projects/lwy647/discula_draft_assembly/discula70_53.scafSeq
+# BUSCO was run in mode: genome
+# Gene predictor used: metaeuk
+
+	***** Results: *****
+
+	C:95.1%[S:94.9%,D:0.2%],F:1.2%,M:3.7%,n:3817	   
+	3632	Complete BUSCOs (C)			   
+	3624	Complete and single-copy BUSCOs (S)	   
+	8	Complete and duplicated BUSCOs (D)	   
+	45	Fragmented BUSCOs (F)			   
+	140	Missing BUSCOs (M)			   
+	3817	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	metaeuk: 6.a5d39d9

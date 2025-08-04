@@ -1,0 +1,19 @@
+#                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name           accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#   ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+scaffold41:13827-15665  -            613 70875at147550        -            350   7.2e-63  211.0  33.6   1   4   1.9e-34   4.5e-31  106.4   0.7    12   122     2   117     1   136 0.91 -
+scaffold41:13827-15665  -            613 70875at147550        -            350   7.2e-63  211.0  33.6   2   4   7.7e-05      0.18    9.1   7.1   123   175   147   205   144   275 0.69 -
+scaffold41:13827-15665  -            613 70875at147550        -            350   7.2e-63  211.0  33.6   3   4   2.2e-32     5e-29   99.7   8.7   189   333   417   558   403   565 0.73 -
+scaffold41:13827-15665  -            613 70875at147550        -            350   7.2e-63  211.0  33.6   4   4   0.00013      0.31    8.3   0.5   306   340   553   587   545   592 0.68 -
+scaffold395:57849-60964 -            898 70875at147550        -            350       2.6    5.2  13.8   1   2   0.00023      0.52    7.5   3.0   176   260   145   229   136   237 0.62 -
+scaffold395:57849-60964 -            898 70875at147550        -            350       2.6    5.2  13.8   2   2    0.0052        12    3.1   3.1   118   191   722   795   710   822 0.65 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /pickett_shared/projects/lwy647/discula_draft_assembly/busco_downloads/lineages/sordariomycetes_odb10/hmms/70875at147550.hmm
+# Target file:     /pickett_shared/projects/lwy647/discula_draft_assembly/discula70_53.scafSeq.BUSCO/run_sordariomycetes_odb10/metaeuk_output/initial_results/discula70_53.scafSeq.modified.fas
+# Option settings: hmmsearch --domtblout /pickett_shared/projects/lwy647/discula_draft_assembly/discula70_53.scafSeq.BUSCO/run_sordariomycetes_odb10/hmmer_output/initial_run_results/70875at147550.out --cpu 1 /pickett_shared/projects/lwy647/discula_draft_assembly/busco_downloads/lineages/sordariomycetes_odb10/hmms/70875at147550.hmm /pickett_shared/projects/lwy647/discula_draft_assembly/discula70_53.scafSeq.BUSCO/run_sordariomycetes_odb10/metaeuk_output/initial_results/discula70_53.scafSeq.modified.fas 
+# Current dir:     /pickett_shared/projects/lwy647/discula_draft_assembly
+# Date:            Thu Aug 31 18:11:58 2023
+# [ok]

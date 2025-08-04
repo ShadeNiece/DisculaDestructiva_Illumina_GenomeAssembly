@@ -1,0 +1,23 @@
+Assembly	discula70_53.scafSeq
+# contigs (>= 0 bp)	23334
+# contigs (>= 1000 bp)	861
+# contigs (>= 5000 bp)	621
+# contigs (>= 10000 bp)	532
+# contigs (>= 25000 bp)	396
+# contigs (>= 50000 bp)	284
+Total length (>= 0 bp)	49127260
+Total length (>= 1000 bp)	46562189
+Total length (>= 5000 bp)	46005151
+Total length (>= 10000 bp)	45331316
+Total length (>= 25000 bp)	43137148
+Total length (>= 50000 bp)	39063927
+# contigs	1008
+Largest contig	668298
+Total length	46667427
+GC (%)	50.00
+N50	141734
+N90	32091
+auN	169841.7
+L50	102
+L90	357
+# N's per 100 kbp	284.46

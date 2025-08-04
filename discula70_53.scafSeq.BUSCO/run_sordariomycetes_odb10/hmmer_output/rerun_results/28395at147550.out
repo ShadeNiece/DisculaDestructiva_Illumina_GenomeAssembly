@@ -1,0 +1,26 @@
+#                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name           accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#   ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+scaffold70:12360-14146  -            522 28395at147550        -            454  5.6e-100  330.1  26.4   1   2   6.3e-64   4.3e-62  205.2  13.5    13   236    15   243     9   261 0.87 -
+scaffold70:12360-14146  -            522 28395at147550        -            454  5.6e-100  330.1  26.4   2   2   3.3e-41   2.2e-39  130.3   5.0   257   453   304   521   294   522 0.81 -
+scaffold94:87003-88415  -            414 28395at147550        -            454     7e-78  257.2  23.9   1   2     1e-48   6.7e-47  155.1   7.8    80   295     1   234     1   252 0.83 -
+scaffold94:87003-88415  -            414 28395at147550        -            454     7e-78  257.2  23.9   2   2   1.3e-34   8.5e-33  108.6   7.9   296   450   257   413   247   414 0.91 -
+scaffold401:24589-26336 -            447 28395at147550        -            454   3.2e-69  228.7  24.1   1   3   1.2e-41   8.3e-40  131.7   7.4    11   181     4   180     2   184 0.93 -
+scaffold401:24589-26336 -            447 28395at147550        -            454   3.2e-69  228.7  24.1   2   3   5.7e-19   3.9e-17   57.0   0.2   180   236   207   267   200   281 0.84 -
+scaffold401:24589-26336 -            447 28395at147550        -            454   3.2e-69  228.7  24.1   3   3   7.4e-17     5e-15   50.0   3.7   287   414   278   406   267   441 0.78 -
+scaffold840:9181-9948   -            256 28395at147550        -            454   3.6e-09   30.7   4.1   1   1   6.7e-11   4.5e-09   30.4   4.1    83   230    17   166     1   174 0.78 -
+scaffold423:4767-5567   -            267 28395at147550        -            454   2.4e-07   24.7   4.1   1   1   4.7e-09   3.1e-07   24.3   4.1    74   325     1   255     1   265 0.73 -
+scaffold376:2162-3388   -            363 28395at147550        -            454   1.6e-05   18.7   9.9   1   2     0.033       2.2    1.7   0.9    88   132    13    56    10    76 0.65 -
+scaffold376:2162-3388   -            363 28395at147550        -            454   1.6e-05   18.7   9.9   2   2   4.8e-07   3.2e-05   17.7   4.3   177   364    77   264    49   345 0.64 -
+scaffold109:53031-92800 -            276 28395at147550        -            454   4.4e-05   17.2   0.4   1   2   0.00018     0.012    9.2   0.5    74   107    19    52     5    88 0.78 -
+scaffold109:53031-92800 -            276 28395at147550        -            454   4.4e-05   17.2   0.4   2   2    0.0017      0.11    6.0   0.0   181   227   159   206   148   227 0.84 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /pickett_shared/projects/lwy647/discula_draft_assembly/busco_downloads/lineages/sordariomycetes_odb10/hmms/28395at147550.hmm
+# Target file:     /pickett_shared/projects/lwy647/discula_draft_assembly/discula70_53.scafSeq.BUSCO/run_sordariomycetes_odb10/metaeuk_output/rerun_results/discula70_53.scafSeq.modified.fas
+# Option settings: hmmsearch --domtblout /pickett_shared/projects/lwy647/discula_draft_assembly/discula70_53.scafSeq.BUSCO/run_sordariomycetes_odb10/hmmer_output/rerun_results/28395at147550.out --cpu 1 /pickett_shared/projects/lwy647/discula_draft_assembly/busco_downloads/lineages/sordariomycetes_odb10/hmms/28395at147550.hmm /pickett_shared/projects/lwy647/discula_draft_assembly/discula70_53.scafSeq.BUSCO/run_sordariomycetes_odb10/metaeuk_output/rerun_results/discula70_53.scafSeq.modified.fas 
+# Current dir:     /pickett_shared/projects/lwy647/discula_draft_assembly
+# Date:            Thu Aug 31 18:14:24 2023
+# [ok]

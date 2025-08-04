@@ -1,0 +1,21 @@
+#                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name             accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#     ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+scaffold164:132720-139774 -           2334 5683at147550         -            919  1.2e-295  981.0 173.1   1   8   6.3e-12   2.9e-08   29.9   6.8    15    50   625   661   593   679 0.75 -
+scaffold164:132720-139774 -           2334 5683at147550         -            919  1.2e-295  981.0 173.1   2   8   1.2e-11   5.4e-08   29.1   1.8    49    80   690   721   680   724 0.87 -
+scaffold164:132720-139774 -           2334 5683at147550         -            919  1.2e-295  981.0 173.1   3   8   3.3e-17   1.5e-13   47.4   5.6    68   158   734   827   723   834 0.77 -
+scaffold164:132720-139774 -           2334 5683at147550         -            919  1.2e-295  981.0 173.1   4   8     5e-05      0.23    7.1   7.4   108   185   840   941   835   973 0.50 -
+scaffold164:132720-139774 -           2334 5683at147550         -            919  1.2e-295  981.0 173.1   5   8   2.5e-05      0.11    8.1   0.1   208   237  1238  1271  1158  1279 0.78 -
+scaffold164:132720-139774 -           2334 5683at147550         -            919  1.2e-295  981.0 173.1   6   8   6.3e-26   2.9e-22   76.3  12.2   227   334  1336  1471  1325  1475 0.81 -
+scaffold164:132720-139774 -           2334 5683at147550         -            919  1.2e-295  981.0 173.1   7   8  1.3e-178  5.9e-175  581.6  78.7   309   796  1505  2025  1494  2032 0.90 -
+scaffold164:132720-139774 -           2334 5683at147550         -            919  1.2e-295  981.0 173.1   8   8   1.2e-71   5.4e-68  227.6   9.5   787   919  2057  2206  2053  2206 0.90 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /pickett_shared/projects/lwy647/discula_draft_assembly/busco_downloads/lineages/sordariomycetes_odb10/hmms/5683at147550.hmm
+# Target file:     /pickett_shared/projects/lwy647/discula_draft_assembly/discula70_53.scafSeq.BUSCO/run_sordariomycetes_odb10/metaeuk_output/initial_results/discula70_53.scafSeq.modified.fas
+# Option settings: hmmsearch --domtblout /pickett_shared/projects/lwy647/discula_draft_assembly/discula70_53.scafSeq.BUSCO/run_sordariomycetes_odb10/hmmer_output/initial_run_results/5683at147550.out --cpu 1 /pickett_shared/projects/lwy647/discula_draft_assembly/busco_downloads/lineages/sordariomycetes_odb10/hmms/5683at147550.hmm /pickett_shared/projects/lwy647/discula_draft_assembly/discula70_53.scafSeq.BUSCO/run_sordariomycetes_odb10/metaeuk_output/initial_results/discula70_53.scafSeq.modified.fas 
+# Current dir:     /pickett_shared/projects/lwy647/discula_draft_assembly
+# Date:            Thu Aug 31 18:11:53 2023
+# [ok]

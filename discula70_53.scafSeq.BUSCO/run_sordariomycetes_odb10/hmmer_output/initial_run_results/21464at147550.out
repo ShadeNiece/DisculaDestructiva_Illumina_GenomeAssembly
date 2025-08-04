@@ -1,0 +1,33 @@
+#                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name             accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#     ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+scaffold377:71107-74181   -           1025 21464at147550        -            685  2.7e-265  880.2   6.3   1   6   5.6e-24   5.1e-21   72.9   0.0     2    56    16    70    15    85 0.89 -
+scaffold377:71107-74181   -           1025 21464at147550        -            685  2.7e-265  880.2   6.3   2   6     6e-75   5.5e-72  241.3   0.0    47   215    96   294    76   326 0.89 -
+scaffold377:71107-74181   -           1025 21464at147550        -            685  2.7e-265  880.2   6.3   3   6  3.3e-110    3e-107  357.8   3.2   222   450   340   613   337   619 0.89 -
+scaffold377:71107-74181   -           1025 21464at147550        -            685  2.7e-265  880.2   6.3   4   6   1.1e-52     1e-49  167.8   0.0   452   617   643   860   628   870 0.81 -
+scaffold377:71107-74181   -           1025 21464at147550        -            685  2.7e-265  880.2   6.3   5   6     1e-11   9.1e-09   32.4   0.0   616   663   887   934   879   951 0.84 -
+scaffold377:71107-74181   -           1025 21464at147550        -            685  2.7e-265  880.2   6.3   6   6     0.084        77   -0.4   0.0   643   672   961   990   957   996 0.90 -
+scaffold116:180355-184515 -           1351 21464at147550        -            685   6.2e-42  142.0   1.2   1   4      0.17   1.5e+02   -1.4   0.0   456   481   123   148   110   155 0.78 -
+scaffold116:180355-184515 -           1351 21464at147550        -            685   6.2e-42  142.0   1.2   2   4   3.5e-29   3.2e-26   90.1   0.1    10   193   629   836   622   845 0.85 -
+scaffold116:180355-184515 -           1351 21464at147550        -            685   6.2e-42  142.0   1.2   3   4   1.4e-15   1.3e-12   45.1   0.0   239   304   848   911   838   918 0.89 -
+scaffold116:180355-184515 -           1351 21464at147550        -            685   6.2e-42  142.0   1.2   4   4     0.013        12    2.3   0.0   371   402   925   956   914   965 0.85 -
+scaffold243:83671-86979   -           1103 21464at147550        -            685   2.7e-38  130.0   2.3   1   4     3e-05     0.028   11.0   0.0     7    72   724   793   719   804 0.81 -
+scaffold243:83671-86979   -           1103 21464at147550        -            685   2.7e-38  130.0   2.3   2   4   2.9e-18   2.7e-15   54.0   0.1    82   198   838   972   819   979 0.73 -
+scaffold243:83671-86979   -           1103 21464at147550        -            685   2.7e-38  130.0   2.3   3   4   9.6e-20   8.8e-17   58.9   0.1   239   312   980  1053   976  1061 0.88 -
+scaffold243:83671-86979   -           1103 21464at147550        -            685   2.7e-38  130.0   2.3   4   4    0.0049       4.5    3.7   0.0   365   407  1055  1096  1047  1102 0.78 -
+scaffold131:59928-61752   -            525 21464at147550        -            685   2.1e-05   21.3   0.6   1   5     0.016        14    2.0   0.0    84   135   101   149    85   210 0.81 -
+scaffold131:59928-61752   -            525 21464at147550        -            685   2.1e-05   21.3   0.6   2   5       0.6   5.5e+02   -3.2   0.0   180   194   283   297   269   305 0.76 -
+scaffold131:59928-61752   -            525 21464at147550        -            685   2.1e-05   21.3   0.6   3   5   9.6e-05     0.088    9.3   0.0   244   278   314   347   308   364 0.87 -
+scaffold131:59928-61752   -            525 21464at147550        -            685   2.1e-05   21.3   0.6   4   5    0.0016       1.5    5.3   0.3   292   305   384   397   380   419 0.74 -
+scaffold131:59928-61752   -            525 21464at147550        -            685   2.1e-05   21.3   0.6   5   5      0.32   2.9e+02   -2.3   0.0   343   379   405   441   402   442 0.86 -
+scaffold16:1924-3264      -            447 21464at147550        -            685     0.034   10.7   0.0   1   1   5.2e-05     0.048   10.2   0.0    82   137   253   310   237   318 0.85 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /pickett_shared/projects/lwy647/discula_draft_assembly/busco_downloads/lineages/sordariomycetes_odb10/hmms/21464at147550.hmm
+# Target file:     /pickett_shared/projects/lwy647/discula_draft_assembly/discula70_53.scafSeq.BUSCO/run_sordariomycetes_odb10/metaeuk_output/initial_results/discula70_53.scafSeq.modified.fas
+# Option settings: hmmsearch --domtblout /pickett_shared/projects/lwy647/discula_draft_assembly/discula70_53.scafSeq.BUSCO/run_sordariomycetes_odb10/hmmer_output/initial_run_results/21464at147550.out --cpu 1 /pickett_shared/projects/lwy647/discula_draft_assembly/busco_downloads/lineages/sordariomycetes_odb10/hmms/21464at147550.hmm /pickett_shared/projects/lwy647/discula_draft_assembly/discula70_53.scafSeq.BUSCO/run_sordariomycetes_odb10/metaeuk_output/initial_results/discula70_53.scafSeq.modified.fas 
+# Current dir:     /pickett_shared/projects/lwy647/discula_draft_assembly
+# Date:            Thu Aug 31 18:11:37 2023
+# [ok]

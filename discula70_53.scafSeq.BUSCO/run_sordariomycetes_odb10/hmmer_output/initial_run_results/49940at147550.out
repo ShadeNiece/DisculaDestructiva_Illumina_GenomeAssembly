@@ -1,0 +1,26 @@
+#                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name           accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#   ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+scaffold204:69965-71483 -            489 49940at147550        -            294    1e-171  567.7  11.9   1   3   6.7e-08   7.7e-05   19.9   0.2     1    25     9    35     9    42 0.88 -
+scaffold204:69965-71483 -            489 49940at147550        -            294    1e-171  567.7  11.9   2   3  4.9e-126  5.6e-123  407.7   0.6    18   227   113   333   101   343 0.94 -
+scaffold204:69965-71483 -            489 49940at147550        -            294    1e-171  567.7  11.9   3   3   1.4e-46   1.6e-43  146.9   0.6   222   294   412   484   368   484 0.89 -
+scaffold213:36030-37283 -            377 49940at147550        -            294   3.8e-43  145.7   4.1   1   2   3.9e-27   4.5e-24   83.0   1.9    23   203    40   234    30   251 0.82 -
+scaffold213:36030-37283 -            377 49940at147550        -            294   3.8e-43  145.7   4.1   2   2   5.5e-21   6.3e-18   62.8   0.0   213   294   281   363   240   363 0.86 -
+scaffold94:82357-83772  -            472 49940at147550        -            294   7.5e-15   52.8   4.6   1   3     0.024        27    1.7   0.0   233   268   199   234   173   257 0.70 -
+scaffold94:82357-83772  -            472 49940at147550        -            294   7.5e-15   52.8   4.6   2   3   2.7e-07   0.00031   17.9   0.2   107   164   305   362   296   397 0.64 -
+scaffold94:82357-83772  -            472 49940at147550        -            294   7.5e-15   52.8   4.6   3   3   7.2e-12   8.2e-09   32.9   0.9   218   284   391   459   382   466 0.77 -
+scaffold357:9225-13178  -           1318 49940at147550        -            294   6.7e-07   26.7   2.3   1   5   0.00036      0.41    7.7   0.0   110   138   237   265   223   272 0.87 -
+scaffold357:9225-13178  -           1318 49940at147550        -            294   6.7e-07   26.7   2.3   2   5      0.01        12    2.9   0.0   104   132   728   756   711   772 0.73 -
+scaffold357:9225-13178  -           1318 49940at147550        -            294   6.7e-07   26.7   2.3   3   5     0.014        16    2.5   0.0   228   270   889   929   836   943 0.69 -
+scaffold357:9225-13178  -           1318 49940at147550        -            294   6.7e-07   26.7   2.3   4   5     0.065        74    0.3   0.1   230   283  1064  1115  1027  1122 0.83 -
+scaffold357:9225-13178  -           1318 49940at147550        -            294   6.7e-07   26.7   2.3   5   5   0.00058      0.66    7.0   0.0   239   267  1254  1280  1214  1304 0.70 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /pickett_shared/projects/lwy647/discula_draft_assembly/busco_downloads/lineages/sordariomycetes_odb10/hmms/49940at147550.hmm
+# Target file:     /pickett_shared/projects/lwy647/discula_draft_assembly/discula70_53.scafSeq.BUSCO/run_sordariomycetes_odb10/metaeuk_output/initial_results/discula70_53.scafSeq.modified.fas
+# Option settings: hmmsearch --domtblout /pickett_shared/projects/lwy647/discula_draft_assembly/discula70_53.scafSeq.BUSCO/run_sordariomycetes_odb10/hmmer_output/initial_run_results/49940at147550.out --cpu 1 /pickett_shared/projects/lwy647/discula_draft_assembly/busco_downloads/lineages/sordariomycetes_odb10/hmms/49940at147550.hmm /pickett_shared/projects/lwy647/discula_draft_assembly/discula70_53.scafSeq.BUSCO/run_sordariomycetes_odb10/metaeuk_output/initial_results/discula70_53.scafSeq.modified.fas 
+# Current dir:     /pickett_shared/projects/lwy647/discula_draft_assembly
+# Date:            Thu Aug 31 18:11:51 2023
+# [ok]

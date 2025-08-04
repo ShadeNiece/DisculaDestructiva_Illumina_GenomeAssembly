@@ -1,0 +1,24 @@
+#                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name             accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#     ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+scaffold363:71890-75434   -           1152 3453at147550         -            951         0 1770.0  10.8   1   3   3.4e-22   5.2e-19   65.2   0.0     1    43     1    42     1    74 0.78 -
+scaffold363:71890-75434   -           1152 3453at147550         -            951         0 1770.0  10.8   2   3         0         0 1108.0   2.3    43   679    98   852    91   859 0.90 -
+scaffold363:71890-75434   -           1152 3453at147550         -            951         0 1770.0  10.8   3   3  6.9e-183  1.1e-179  597.1   0.3   673   951   866  1151   864  1151 0.97 -
+scaffold39:114784-118717  -           1274 3453at147550         -            951  1.8e-184  612.8   1.3   1   4    0.0023       3.4    2.9   0.0    46    69   113   136   103   151 0.80 -
+scaffold39:114784-118717  -           1274 3453at147550         -            951  1.8e-184  612.8   1.3   2   4   8.9e-56   1.4e-52  176.3   0.0    81   521   198   740   182   747 0.70 -
+scaffold39:114784-118717  -           1274 3453at147550         -            951  1.8e-184  612.8   1.3   3   4   1.3e-44     2e-41  139.4   0.0   520   645   786   911   779   922 0.96 -
+scaffold39:114784-118717  -           1274 3453at147550         -            951  1.8e-184  612.8   1.3   4   4   1.3e-89     2e-86  288.4   0.2   653   943   963  1265   957  1269 0.91 -
+scaffold116:160452-164136 -           1208 3453at147550         -            951  4.1e-112  373.3   0.6   1   4   3.3e-11     5e-08   28.8   0.1    45   303   111   418    97   433 0.66 -
+scaffold116:160452-164136 -           1208 3453at147550         -            951  4.1e-112  373.3   0.6   2   4   1.8e-10   2.7e-07   26.4   0.0   340   410   489   557   457   570 0.81 -
+scaffold116:160452-164136 -           1208 3453at147550         -            951  4.1e-112  373.3   0.6   3   4   5.1e-34   7.8e-31  104.3   0.0   520   653   685   818   669   843 0.91 -
+scaffold116:160452-164136 -           1208 3453at147550         -            951  4.1e-112  373.3   0.6   4   4   3.4e-65   5.3e-62  207.5   0.0   678   902   885  1121   877  1141 0.91 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /pickett_shared/projects/lwy647/discula_draft_assembly/busco_downloads/lineages/sordariomycetes_odb10/hmms/3453at147550.hmm
+# Target file:     /pickett_shared/projects/lwy647/discula_draft_assembly/discula70_53.scafSeq.BUSCO/run_sordariomycetes_odb10/metaeuk_output/initial_results/discula70_53.scafSeq.modified.fas
+# Option settings: hmmsearch --domtblout /pickett_shared/projects/lwy647/discula_draft_assembly/discula70_53.scafSeq.BUSCO/run_sordariomycetes_odb10/hmmer_output/initial_run_results/3453at147550.out --cpu 1 /pickett_shared/projects/lwy647/discula_draft_assembly/busco_downloads/lineages/sordariomycetes_odb10/hmms/3453at147550.hmm /pickett_shared/projects/lwy647/discula_draft_assembly/discula70_53.scafSeq.BUSCO/run_sordariomycetes_odb10/metaeuk_output/initial_results/discula70_53.scafSeq.modified.fas 
+# Current dir:     /pickett_shared/projects/lwy647/discula_draft_assembly
+# Date:            Thu Aug 31 18:11:51 2023
+# [ok]

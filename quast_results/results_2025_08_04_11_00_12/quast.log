@@ -1,0 +1,61 @@
+/lustre/isaac24/scratch/lwy647/envs/quast/bin/quast.py -t 10 discula70_53.scafSeq.fasta
+
+Version: 5.3.0
+
+System information:
+  OS: Linux-4.18.0-553.52.1.el8_10.x86_64-x86_64-with-glibc2.28 (linux_64)
+  Python version: 3.13.5
+  CPUs number: 96
+
+Started: 2025-08-04 11:00:12
+
+Logging to /pickett_centaur/project/lwy647/discula_draft_assembly/quast_results/results_2025_08_04_11_00_12/quast.log
+
+CWD: /pickett_centaur/project/lwy647/discula_draft_assembly
+Main parameters: 
+  MODE: default, threads: 10, min contig length: 500, min alignment length: 65, min alignment IDY: 95.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Contigs:
+  Pre-processing...
+  discula70_53.scafSeq.fasta ==> discula70_53.scafSeq
+
+2025-08-04 11:00:15
+Running Basic statistics processor...
+  Contig files: 
+    discula70_53.scafSeq
+  Calculating N50 and L50...
+    discula70_53.scafSeq, N50 = 141734, L50 = 102, auN = 169841.7, Total length = 46667427, GC % = 50.00, # N's per 100 kbp =  284.46
+  Drawing Nx plot...
+    saved to /pickett_centaur/project/lwy647/discula_draft_assembly/quast_results/results_2025_08_04_11_00_12/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /pickett_centaur/project/lwy647/discula_draft_assembly/quast_results/results_2025_08_04_11_00_12/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /pickett_centaur/project/lwy647/discula_draft_assembly/quast_results/results_2025_08_04_11_00_12/basic_stats/GC_content_plot.pdf
+  Drawing discula70_53.scafSeq GC content plot...
+    saved to /pickett_centaur/project/lwy647/discula_draft_assembly/quast_results/results_2025_08_04_11_00_12/basic_stats/discula70_53.scafSeq_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2025-08-04 11:00:16
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2025-08-04 11:00:17
+RESULTS:
+  Text versions of total report are saved to /pickett_centaur/project/lwy647/discula_draft_assembly/quast_results/results_2025_08_04_11_00_12/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /pickett_centaur/project/lwy647/discula_draft_assembly/quast_results/results_2025_08_04_11_00_12/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /pickett_centaur/project/lwy647/discula_draft_assembly/quast_results/results_2025_08_04_11_00_12/report.html
+  PDF version (tables and plots) is saved to /pickett_centaur/project/lwy647/discula_draft_assembly/quast_results/results_2025_08_04_11_00_12/report.pdf
+  Icarus (contig browser) is saved to /pickett_centaur/project/lwy647/discula_draft_assembly/quast_results/results_2025_08_04_11_00_12/icarus.html
+  Log is saved to /pickett_centaur/project/lwy647/discula_draft_assembly/quast_results/results_2025_08_04_11_00_12/quast.log
+
+Finished: 2025-08-04 11:00:17
+Elapsed time: 0:00:04.542098
+NOTICEs: 1; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
